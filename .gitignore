@@ -1,6 +1,7 @@
 *~
 *checkpoint*
 __pycache__
-*.pdf
 *.h5
 &.root
+
+.DS_Store
